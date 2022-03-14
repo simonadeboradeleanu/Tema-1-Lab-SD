@@ -3,19 +3,6 @@ using namespace std;
 using namespace std::chrono;
 
 
-/*int alegempivot(vector <int> &a, int low, int high)
-{
-    int pvt, n, temp;
-    n = rand();
-    // Randomizing the pivot value in the given subpart of array.
-    pvt = low + n%(high-low+1);
-
-    // Swapping pivot value from high, so pivot value will be taken as a pivot while partitioning.
-    swap(a[high], a[pvt]);
-
-    return Partition(a, low, high);
-}*/
-
 int part2(vector <int> &a, int low, int high)
 {
     int pivot, index, i;
