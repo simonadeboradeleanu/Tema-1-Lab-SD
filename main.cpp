@@ -21,7 +21,7 @@ int part2(vector <int> &a, int low, int high)
     swap(a[pivot], a[index]);
 
     return index;
-}rgfhjkl
+}rgfhjkldrfghujiokuyS
 
 int alegempivot2(vector <int> &a, int st, int dr){
     int m=(dr-st)/2+st;
