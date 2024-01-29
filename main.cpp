@@ -31,7 +31,7 @@ int alegempivot2(vector <int> &a, int st, int dr){
     return part2(a, st, dr);
 
 }
-int quicksort2(vector <int> &a, int low, int high)
+int quicksort2(vector <int> &a, int low, int high)sdfgbhnjmk,l.,kdfcvgbhnjm,
 {
     int p;
     if(low < high)
