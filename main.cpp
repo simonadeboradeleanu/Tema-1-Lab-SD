@@ -11,11 +11,11 @@ int part2(vector <int> &a, int low, int high)
 
     for(i=low; i < high; i++)
     {
-        if(a[i] < a[pivot])
+        if (a[i] < a[pivot])
         {
-            swap(a[i],a[index]);
+            swap(a[i], a[index]);
             index++;
-        }
+        }dfghjkl;dfghjkl
     }
     // Swapping value at high and at the index obtained.
     swap(a[pivot], a[index]);
