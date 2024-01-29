@@ -25,11 +25,11 @@ int part2(vector <int> &a, int low, int high)
 
 int alegempivot2(vector <int> &a, int st, int dr){
     int m=(dr-st)/2+st;
-    srand(time(NULL));
+    srand(time(NULL));a
     int random = st + rand() % (dr - st);;
     swap(a[dr], a[random]);
     return part2(a, st, dr);
-
+    dfghjkl
 }
 int quicksort2(vector <int> &a, int low, int high)sdfgbhnjmk,l.,kdfcvgbhnjm,
 {
