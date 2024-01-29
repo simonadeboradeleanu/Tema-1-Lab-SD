@@ -14,14 +14,14 @@ int part2(vector <int> &a, int low, int high)
         if (a[i] < a[pivot])
         {
             swap(a[i], a[index]);
-            index++;
+            index++;fghjkl;lkgf
         }dfghjkl;dfghjkl
     }
     // Swapping value at high and at the index obtained.
     swap(a[pivot], a[index]);
 
     return index;
-}
+}rgfhjkl
 
 int alegempivot2(vector <int> &a, int st, int dr){
     int m=(dr-st)/2+st;
